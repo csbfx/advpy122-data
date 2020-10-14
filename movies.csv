@@ -1,0 +1,89 @@
+,title,year,mpaa_rating,runtime,genre,stars,metascore,votes,gross
+0,The Shawshank Redemption,1994,R,142 ,Drama            ,9.3,80        ,2293359,28.34
+1,The Godfather,1972,R,175 ,"Crime, Drama            ",9.2,100        ,1583085,134.97
+2,The Godfather: Part II,1974,R,202 ,"Crime, Drama            ",9,90        ,1106016,57.30
+3,The Dark Knight,2008,PG-13,152 ,"Action, Crime, Drama            ",9,84        ,2258401,534.86
+4,12 Angry Men,1957,Approved,96 ,"Crime, Drama            ",8.9,96        ,673761,4.36
+5,Schindler's List,1993,R,195 ,"Biography, Drama, History            ",8.9,94        ,1190540,96.90
+6,The Lord of the Rings: The Return of the King,2003,PG-13,201 ,"Action, Adventure, Drama            ",8.9,94        ,1612901,377.85
+7,Pulp Fiction,1994,R,154 ,"Crime, Drama            ",8.9,94        ,1790991,107.93
+8,"The Good, the Bad and the Ugly",1966,R,178 ,Western            ,8.8,90        ,676551,6.10
+9,Fight Club,1999,R,139 ,Drama            ,8.8,66        ,1818444,37.03
+10,Joker,2019,R,122 ,"Crime, Drama, Thriller            ",8.5,59        ,879767,335.45
+11,The Lord of the Rings: The Fellowship of the Ring,2001,PG-13,178 ,"Action, Adventure, Drama            ",8.8,92        ,1628633,315.54
+12,Forrest Gump,1994,PG-13,142 ,"Drama, Romance            ",8.8,82        ,1767336,330.25
+13,Inception,2010,PG-13,148 ,"Action, Adventure, Sci-Fi            ",8.8,74        ,2020437,292.58
+14,Star Wars: Episode V - The Empire Strikes Back,1980,PG,124 ,"Action, Adventure, Fantasy            ",8.7,82        ,1138261,290.48
+15,The Lord of the Rings: The Two Towers,2002,PG-13,179 ,"Action, Adventure, Drama            ",8.7,87        ,1457719,342.55
+16,The Matrix,1999,R,136 ,"Action, Sci-Fi            ",8.7,73        ,1642229,171.48
+17,One Flew Over the Cuckoo's Nest,1975,R,133 ,Drama            ,8.7,83        ,899835,112.00
+18,Goodfellas,1990,R,146 ,"Biography, Crime, Drama            ",8.7,90        ,998452,46.84
+19,Seven Samurai,1954,Not Rated,207 ,"Action, Adventure, Drama            ",8.6,98        ,310115,0.27
+20,Se7en,1995,R,127 ,"Crime, Drama, Mystery            ",8.6,65        ,1412343,100.13
+21,City of God,2002,R,130 ,"Crime, Drama            ",8.6,79        ,689124,7.56
+22,Life Is Beautiful,1997,PG-13,116 ,"Comedy, Drama, Romance            ",8.6,59        ,609960,57.60
+23,The Silence of the Lambs,1991,R,118 ,"Crime, Drama, Thriller            ",8.6,85        ,1243085,130.74
+24,Star Wars: Episode IV - A New Hope,1977,PG,121 ,"Action, Adventure, Fantasy            ",8.6,90        ,1210025,322.74
+25,Saving Private Ryan,1998,R,169 ,"Drama, War            ",8.6,91        ,1211414,216.54
+26,Spirited Away,2001,PG,125 ,"Animation, Adventure, Family            ",8.6,96        ,632678,10.06
+27,The Green Mile,1999,R,189 ,"Crime, Drama, Fantasy            ",8.6,61        ,1120842,136.80
+28,Léon: The Professional,1994,R,110 ,"Action, Crime, Drama            ",8.5,64        ,1014260,19.50
+29,Interstellar,2014,PG-13,169 ,"Adventure, Drama, Sci-Fi            ",8.6,74        ,1466253,188.02
+30,The Usual Suspects,1995,R,106 ,"Crime, Mystery, Thriller            ",8.5,77        ,974396,23.34
+31,The Lion King,1994,G,88 ,"Animation, Adventure, Drama            ",8.5,88        ,922970,422.78
+32,American History X,1998,R,119 ,Drama            ,8.5,62        ,1019145,6.72
+33,Back to the Future,1985,PG,116 ,"Adventure, Comedy, Sci-Fi            ",8.5,87        ,1034942,210.61
+34,The Pianist,2002,R,150 ,"Biography, Drama, Music            ",8.5,85        ,712978,32.57
+35,Modern Times,1936,G,87 ,"Comedy, Drama, Family            ",8.5,96        ,213024,0.16
+36,Terminator 2: Judgment Day,1991,R,137 ,"Action, Sci-Fi            ",8.5,75        ,980082,204.84
+37,The Intouchables,2011,R,112 ,"Biography, Comedy, Drama            ",8.5,57        ,741602,13.18
+38,Psycho,1960,R,109 ,"Horror, Mystery, Thriller            ",8.5,97        ,591525,32.00
+39,Gladiator,2000,R,155 ,"Action, Adventure, Drama            ",8.5,67        ,1315847,187.71
+40,City Lights,1931,G,87 ,"Comedy, Drama, Romance            ",8.5,99        ,164122,0.02
+41,The Departed,2006,R,151 ,"Crime, Drama, Thriller            ",8.5,85        ,1166563,132.38
+42,Whiplash,2014,R,106 ,"Drama, Music            ",8.5,88        ,696696,13.09
+43,Once Upon a Time in the West,1968,PG-13,165 ,Western            ,8.5,80        ,297444,5.32
+44,The Prestige,2006,PG-13,130 ,"Drama, Mystery, Sci-Fi            ",8.5,66        ,1164111,53.09
+45,Avengers: Endgame,2019,PG-13,181 ,"Action, Adventure, Drama            ",8.4,78        ,770603,858.37
+46,Casablanca,1942,PG,102 ,"Drama, Romance, War            ",8.5,100        ,513131,1.02
+47,Rear Window,1954,PG,112 ,"Mystery, Thriller            ",8.4,100        ,435489,36.76
+48,Cinema Paradiso,1988,R,155 ,Drama            ,8.5,80        ,225055,11.99
+49,Alien,1979,R,117 ,"Horror, Sci-Fi            ",8.4,89        ,773649,78.90
+50,Raiders of the Lost Ark,1981,PG,115 ,"Action, Adventure            ",8.4,85        ,869834,248.16
+51,Memento,2000,R,113 ,"Mystery, Thriller            ",8.4,80        ,1106291,25.54
+52,Apocalypse Now,1979,R,147 ,"Drama, Mystery, War            ",8.4,94        ,594819,83.47
+53,The Lives of Others,2006,R,137 ,"Drama, Mystery, Thriller            ",8.4,89        ,351909,11.29
+54,Avengers: Infinity War,2018,PG-13,149 ,"Action, Adventure, Sci-Fi            ",8.4,68        ,805605,678.82
+55,Django Unchained,2012,R,165 ,"Drama, Western            ",8.4,81        ,1327124,162.81
+56,Spider-Man: Into the Spider-Verse,2018,PG,117 ,"Animation, Action, Adventure            ",8.4,87        ,343291,190.24
+57,The Shining,1980,R,146 ,"Drama, Horror            ",8.4,66        ,876288,44.02
+58,WALL·E,2008,G,98 ,"Animation, Adventure, Family            ",8.4,95        ,980324,223.81
+59,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,1964,PG,95 ,Comedy            ,8.4,97        ,443492,0.28
+60,Princess Mononoke,1997,PG-13,134 ,"Animation, Adventure, Fantasy            ",8.4,76        ,334128,2.38
+61,Oldboy,2003,R,120 ,"Action, Drama, Mystery            ",8.4,77        ,504500,0.71
+62,The Dark Knight Rises,2012,PG-13,164 ,"Action, Adventure            ",8.4,78        ,1489891,448.14
+63,Parasite,2019,R,132 ,"Comedy, Drama, Thriller            ",8.6,96        ,491136,53.37
+64,Aliens,1986,R,137 ,"Action, Adventure, Sci-Fi            ",8.3,84        ,642833,85.16
+65,American Beauty,1999,R,122 ,Drama            ,8.3,84        ,1053882,130.10
+66,Coco,2017,PG,105 ,"Animation, Adventure, Family            ",8.4,81        ,358279,209.73
+67,Your Name.,2016,PG,106 ,"Animation, Drama, Fantasy            ",8.4,79        ,182600,5.02
+68,Braveheart,1995,R,178 ,"Biography, Drama, History            ",8.3,68        ,945748,75.60
+69,Das Boot,1981,R,149 ,"Adventure, Drama, Thriller            ",8.3,86        ,227896,11.49
+70,3 Idiots,2009,PG-13,170 ,"Comedy, Drama            ",8.4,67        ,335073,6.53
+71,Star Wars: Episode VI - Return of the Jedi,1983,PG,131 ,"Action, Adventure, Fantasy            ",8.3,58        ,932977,309.13
+72,Toy Story,1995,G,81 ,"Animation, Adventure, Comedy            ",8.3,95        ,869693,191.80
+73,Reservoir Dogs,1992,R,99 ,"Crime, Drama, Thriller            ",8.3,79        ,901836,2.83
+74,Amadeus,1984,R,160 ,"Biography, Drama, History            ",8.3,88        ,363074,51.97
+75,Good Will Hunting,1997,R,126 ,"Drama, Romance            ",8.3,70        ,843203,138.43
+76,Inglourious Basterds,2009,R,153 ,"Adventure, Drama, War            ",8.3,69        ,1238155,120.54
+77,Requiem for a Dream,2000,R,102 ,Drama            ,8.3,68        ,752904,3.64
+78,2001: A Space Odyssey,1968,G,149 ,"Adventure, Sci-Fi            ",8.3,84        ,591802,56.95
+79,Vertigo,1958,PG,128 ,"Mystery, Romance, Thriller            ",8.3,100        ,356064,3.20
+80,Eternal Sunshine of the Spotless Mind,2004,R,108 ,"Drama, Romance, Sci-Fi            ",8.3,89        ,895484,34.40
+81,Citizen Kane,1941,PG,119 ,"Drama, Mystery            ",8.3,100        ,391869,1.59
+82,Full Metal Jacket,1987,R,116 ,"Drama, War            ",8.3,76        ,662410,46.36
+83,The Hunt,2012,R,115 ,Drama            ,8.3,77        ,272183,0.69
+84,North by Northwest,1959,Approved,136 ,"Adventure, Mystery, Thriller            ",8.3,98        ,293810,13.28
+85,A Clockwork Orange,1971,R,136 ,"Crime, Drama, Sci-Fi            ",8.3,77        ,744554,6.21
+86,Snatch,2000,R,102 ,"Comedy, Crime            ",8.3,55        ,770228,30.33
+87,Amélie,2001,R,122 ,"Comedy, Romance            ",8.3,69        ,693563,33.23
