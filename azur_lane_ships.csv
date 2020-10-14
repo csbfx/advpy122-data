@@ -1,0 +1,398 @@
+,Name,Rarity,Class Type,Affliation,Firepower,Health,Anti-Air,Evasion,Aviation,Torpedo
+001,Universal Bulin,Elite,Destroyer,Universal,23,232,23,116,23,23
+002,Prototype Bulin MKII,Super Rare,Destroyer,Universal,23,232,23,116,23,23
+003,Specialized Bulin Custom MKIII,Ultra Rare,Destroyer,Universal,23,232,23,116,23,23
+004,Dewey,Rare,Destroyer,Eagle Union,74,1647,185,162,0,279
+005,Cassin,Normal,Destroyer,Eagle Union,76,1735,168,162,0,283
+006,Downes,Normal,Destroyer,Eagle Union,76,1735,168,162,0,283
+007,Gridley,Rare,Destroyer,Eagle Union,73,1810,174,163,0,438
+008,Craven,Normal,Destroyer,Eagle Union,72,1774,171,163,0,429
+009,McCall,Normal,Destroyer,Eagle Union,72,1724,171,162,0,429
+010,Maury,Elite,Destroyer,Eagle Union,76,1809,178,198,0,448
+011,Fletcher,Rare,Destroyer,Eagle Union,85,2077,172,160,0,283
+013,Charles Ausburne,Elite,Destroyer,Eagle Union,87,2112,178,158,0,291
+014,Thatcher,Rare,Destroyer,Eagle Union,85,2037,172,158,0,283
+015,Aulick,Normal,Destroyer,Eagle Union,82,1998,171,158,0,279
+016,Foote,Normal,Destroyer,Eagle Union,82,1998,171,158,0,279
+017,Spence,Normal,Destroyer,Eagle Union,82,1998,171,158,0,279
+018,Benson,Rare,Destroyer,Eagle Union,87,1826,172,163,0,320
+019,Laffey,Elite,Destroyer,Eagle Union,101,1980,176,163,0,302
+026,Sims,Rare,Destroyer,Eagle Union,81,1815,172,160,0,286
+027,Hammann,Rare,Destroyer,Eagle Union,81,1815,172,160,0,286
+028,Eldridge,Super Rare,Destroyer,Eagle Union,81,1720,183,211,0,381
+029,Omaha,Normal,Light Cruiser,Eagle Union,142,3237,281,101,0,207
+030,Raleigh,Normal,Light Cruiser,Eagle Union,142,3237,281,101,0,207
+031,Brooklyn,Rare,Light Cruiser,Eagle Union,164,3470,307,90,0,0
+032,Phoenix,Rare,Light Cruiser,Eagle Union,164,3470,307,90,0,0
+033,Helena,Elite,Light Cruiser,Eagle Union,171,3604,316,90,0,0
+034,Atlanta,Rare,Light Cruiser,Eagle Union,129,3517,422,95,0,157
+035,Juneau,Rare,Light Cruiser,Eagle Union,129,3517,422,95,0,157
+036,San Diego,Super Rare,Light Cruiser,Eagle Union,137,3755,449,95,0,168
+037,Cleveland,Elite,Light Cruiser,Eagle Union,165,4307,323,92,0,0
+038,Columbia,Elite,Light Cruiser,Eagle Union,168,4307,323,92,0,0
+039,Pensacola,Normal,Heavy Cruiser,Eagle Union,232,3290,198,55,0,0
+040,Salt Lake City,Normal,Heavy Cruiser,Eagle Union,232,3290,198,55,0,0
+041,Northampton,Rare,Heavy Cruiser,Eagle Union,240,3346,204,53,0,0
+042,Chicago,Rare,Heavy Cruiser,Eagle Union,240,3393,204,53,0,0
+043,Houston,Elite,Heavy Cruiser,Eagle Union,246,3445,210,53,0,0
+044,Portland,Rare,Heavy Cruiser,Eagle Union,204,4565,245,58,0,0
+045,Indianapolis,Elite,Heavy Cruiser,Eagle Union,210,4734,252,58,0,0
+046,Astoria,Elite,Heavy Cruiser,Eagle Union,218,3881,226,57,0,0
+047,Quincy,Elite,Heavy Cruiser,Eagle Union,218,4015,230,57,0,0
+048,Vincennes,Elite,Heavy Cruiser,Eagle Union,218,4015,230,57,0,0
+049,Wichita,Elite,Heavy Cruiser,Eagle Union,267,3709,222,50,0,0
+050,Baltimore,Super Rare,Heavy Cruiser,Eagle Union,270,4591,260,57,0,0
+052,Nevada,Normal,Battleship,Eagle Union,378,6974,202,26,0,0
+053,Oklahoma,Normal,Battleship,Eagle Union,378,6956,202,26,0,0
+054,Pennsylvania,Rare,Battleship,Eagle Union,390,7194,212,27,0,0
+055,Arizona,Elite,Battleship,Eagle Union,399,7137,219,27,0,0
+058,Tennessee,Rare,Battleship,Eagle Union,391,7385,211,28,0,0
+059,California,Rare,Battleship,Eagle Union,391,7385,211,28,0,0
+060,Colorado,Elite,Battleship,Eagle Union,409,7456,216,30,0,0
+061,Maryland,Elite,Battleship,Eagle Union,405,7514,216,30,0,0
+062,West Virginia,Elite,Battleship,Eagle Union,409,7456,216,30,0,0
+063,North Carolina,Super Rare,Battleship,Eagle Union,421,7852,400,33,0,0
+064,Washington,Super Rare,Battleship,Eagle Union,421,8080,400,33,0,0
+065,South Dakota,Super Rare,Battleship,Eagle Union,414,8031,400,33,0,0
+070,Long Island,Rare,Light Aircraft Carrier,Eagle Union,0,4691,257,66,280,0
+071,Bogue,Normal,Light Aircraft Carrier,Eagle Union,0,3953,252,67,279,0
+072,Langley,Normal,Light Aircraft Carrier,Eagle Union,0,4460,245,80,204,0
+073,Lexington,Elite,Aircraft Carrier,Eagle Union,0,6912,303,57,397,0
+074,Saratoga,Elite,Aircraft Carrier,Eagle Union,0,6912,303,57,397,0
+075,Ranger,Normal,Light Aircraft Carrier,Eagle Union,0,4779,248,73,240,0
+076,Yorktown,Elite,Aircraft Carrier,Eagle Union,0,5797,317,54,395,0
+077,Enterprise,Super Rare,Aircraft Carrier,Eagle Union,0,6193,329,62,429,0
+078,Hornet,Elite,Aircraft Carrier,Eagle Union,0,5823,307,54,401,0
+079,Wasp,Rare,Aircraft Carrier,Eagle Union,0,4894,272,51,330,0
+080,Vestal,Elite,Repair Ship,Eagle Union,50,4624,152,43,0,0
+081,Amazon,Rare,Destroyer,Royal Navy,65,1370,154,211,0,360
+082,Acasta,Rare,Destroyer,Royal Navy,68,1370,154,209,0,360
+083,Ardent,Rare,Destroyer,Royal Navy,68,1370,154,209,0,360
+086,Beagle,Normal,Destroyer,Royal Navy,65,1349,150,209,0,354
+087,Bulldog,Normal,Destroyer,Royal Navy,65,1349,150,209,0,354
+088,Comet,Normal,Destroyer,Royal Navy,68,1359,150,210,0,350
+089,Crescent,Normal,Destroyer,Royal Navy,68,1359,150,210,0,350
+090,Cygnet,Normal,Destroyer,Royal Navy,68,1359,150,210,0,350
+091,Foxhound,Normal,Destroyer,Royal Navy,71,1373,150,209,0,350
+092,Fortune,Rare,Destroyer,Royal Navy,72,1402,154,209,0,357
+093,Grenville,Elite,Destroyer,Royal Navy,85,1518,164,210,0,364
+094,Glowworm,Elite,Destroyer,Royal Navy,79,1412,164,210,0,370
+096,Hardy,Elite,Destroyer,Royal Navy,81,1518,157,210,0,374
+100,Hunter,Rare,Destroyer,Royal Navy,76,1370,156,210,0,356
+101,Javelin,Elite,Destroyer,Royal Navy,80,1581,160,210,0,374
+102,Juno,Rare,Destroyer,Royal Navy,76,1536,156,210,0,364
+103,Vampire,Elite,Destroyer,Royal Navy,71,1314,156,195,0,376
+104,Leander,Normal,Light Cruiser,Royal Navy,146,3246,321,102,0,270
+105,Achilles,Rare,Light Cruiser,Royal Navy,163,2974,295,97,0,324
+106,Ajax,Rare,Light Cruiser,Royal Navy,163,2974,295,97,0,324
+107,Dido,Super Rare,Light Cruiser,Royal Navy,158,3745,388,97,0,178
+110,Southampton,Rare,Light Cruiser,Royal Navy,151,3688,307,100,0,273
+111,Sheffield,Elite,Light Cruiser,Royal Navy,156,3796,351,100,0,295
+113,Gloucester,Elite,Light Cruiser,Royal Navy,156,3789,317,101,0,281
+114,Edinburgh,Elite,Light Cruiser,Royal Navy,157,4486,313,100,0,280
+115,Belfast,Super Rare,Light Cruiser,Royal Navy,179,3970,293,96,0,340
+116,Arethusa,Rare,Light Cruiser,Royal Navy,156,2830,324,100,0,270
+117,Galatea,Rare,Light Cruiser,Royal Navy,156,2830,324,100,0,270
+118,Aurora,Elite,Light Cruiser,Royal Navy,162,2914,333,100,0,279
+119,London,Elite,Heavy Cruiser,Royal Navy,223,3561,212,67,0,223
+120,Shropshire,Rare,Heavy Cruiser,Royal Navy,218,3461,208,67,0,215
+121,Kent,Rare,Heavy Cruiser,Royal Navy,218,3508,208,65,0,215
+122,Suffolk,Rare,Heavy Cruiser,Royal Navy,218,3474,208,65,0,215
+123,Norfolk,Rare,Heavy Cruiser,Royal Navy,178,4621,241,68,0,141
+124,Dorsetshire,Elite,Heavy Cruiser,Royal Navy,182,4755,249,68,0,245
+125,York,Elite,Heavy Cruiser,Royal Navy,226,3676,243,72,0,193
+126,Exeter,Elite,Heavy Cruiser,Royal Navy,226,3705,243,72,0,193
+127,Renown,Elite,Battlecruiser,Royal Navy,376,6207,276,37,0,0
+128,Repulse,Rare,Battlecruiser,Royal Navy,354,6032,268,35,0,0
+129,Hood,Super Rare,Battlecruiser,Royal Navy,343,8445,323,37,0,0
+130,Queen Elizabeth,Elite,Battleship,Royal Navy,403,7512,212,33,0,0
+131,Warspite,Super Rare,Battleship,Royal Navy,426,7783,220,33,0,0
+132,Nelson,Elite,Battleship,Royal Navy,407,7654,219,33,0,0
+133,Rodney,Elite,Battleship,Royal Navy,407,7630,219,31,0,0
+134,King George V,Super Rare,Battleship,Royal Navy,423,7970,264,35,0,0
+135,Prince of Wales,Super Rare,Battleship,Royal Navy,422,7967,230,35,0,0
+136,Duke of York,Super Rare,Battleship,Royal Navy,421,7967,225,35,0,0
+140,Hermes,Normal,Light Aircraft Carrier,Royal Navy,0,4157,247,66,280,0
+142,Unicorn,Elite,Light Aircraft Carrier,Royal Navy,0,5337,268,66,307,0
+143,Eagle,Elite,Aircraft Carrier,Royal Navy,215,6193,307,47,370,0
+144,Ark Royal,Elite,Aircraft Carrier,Royal Navy,0,6107,307,53,400,0
+145,Illustrious,Super Rare,Aircraft Carrier,Royal Navy,0,6561,296,53,400,0
+146,Victorious,Super Rare,Aircraft Carrier,Royal Navy,0,6262,289,53,410,0
+147,Formidable,Super Rare,Aircraft Carrier,Royal Navy,0,6481,289,51,413,0
+148,Glorious,Elite,Aircraft Carrier,Royal Navy,0,6313,292,51,360,0
+149,Erebus,Elite,Monitor,Royal Navy,282,3642,171,61,0,0
+150,Terror,Elite,Monitor,Royal Navy,282,3642,171,61,0,0
+151,Fubuki,Elite,Destroyer,Sakura Empire,62,1798,146,191,0,509
+155,Ayanami,Elite,Destroyer,Sakura Empire,65,1798,146,194,0,509
+159,Akatsuki,Rare,Destroyer,Sakura Empire,60,1747,150,194,0,493
+160,Hibiki,Elite,Destroyer,Sakura Empire,62,1798,154,194,0,524
+161,Ikazuchi,Rare,Destroyer,Sakura Empire,60,1747,150,194,0,493
+162,Inazuma,Rare,Destroyer,Sakura Empire,60,1747,150,194,0,493
+163,Shiratsuyu,Rare,Destroyer,Sakura Empire,65,1712,150,190,0,509
+164,Yuudachi,Super Rare,Destroyer,Sakura Empire,70,1828,157,190,0,545
+165,Shigure,Elite,Destroyer,Sakura Empire,65,1763,150,190,0,524
+166,Yukikaze,Super Rare,Destroyer,Sakura Empire,68,2226,161,192,0,526
+167,Kagerou,Rare,Destroyer,Sakura Empire,65,1885,150,192,0,512
+168,Shiranui,Normal,Destroyer,Sakura Empire,63,1848,145,192,0,502
+170,Nowaki,Elite,Destroyer,Sakura Empire,65,2145,154,191,0,526
+171,Hatsuharu,Rare,Destroyer,Sakura Empire,59,1773,145,192,0,478
+173,Wakaba,Rare,Destroyer,Sakura Empire,59,1770,145,192,0,478
+174,Hatsushimo,Rare,Destroyer,Sakura Empire,59,1773,145,192,0,478
+175,Ariake,Rare,Destroyer,Sakura Empire,59,1773,145,192,0,478
+176,Yuugure,Rare,Destroyer,Sakura Empire,59,1619,145,193,0,478
+177,Kuroshio,Rare,Destroyer,Sakura Empire,65,2083,150,191,0,512
+178,Oyashio,Rare,Destroyer,Sakura Empire,65,2083,150,191,0,512
+179,Yuubari,Elite,Light Cruiser,Sakura Empire,131,2177,307,105,0,276
+182,Nagara,Normal,Light Cruiser,Sakura Empire,140,2891,278,105,0,279
+183,Isuzu,Rare,Light Cruiser,Sakura Empire,120,3214,343,100,0,220
+186,Kinu,Elite,Light Cruiser,Sakura Empire,148,2886,304,105,0,289
+187,Abukuma,Normal,Light Cruiser,Sakura Empire,140,2891,278,105,0,279
+188,Mogami,Elite,Light Cruiser,Sakura Empire,201,4015,186,82,0,185
+189,Mikuma,Elite,Light Cruiser,Sakura Empire,201,4015,186,82,0,187
+190,Furutaka,Normal,Heavy Cruiser,Sakura Empire,215,3439,161,75,0,190
+191,Kako,Normal,Heavy Cruiser,Sakura Empire,215,3439,161,75,0,190
+192,Aoba,Normal,Heavy Cruiser,Sakura Empire,215,3527,167,76,0,190
+193,Kinugasa,Normal,Heavy Cruiser,Sakura Empire,215,3527,167,76,0,190
+196,Myoukou,Rare,Heavy Cruiser,Sakura Empire,196,5220,193,78,0,150
+197,Nachi,Rare,Heavy Cruiser,Sakura Empire,196,5220,193,78,0,150
+198,Ashigara,Elite,Heavy Cruiser,Sakura Empire,234,4162,171,75,0,223
+200,Takao,Super Rare,Heavy Cruiser,Sakura Empire,270,4295,178,79,0,245
+201,Atago,Super Rare,Heavy Cruiser,Sakura Empire,270,4295,178,79,0,245
+202,Maya,Super Rare,Heavy Cruiser,Sakura Empire,270,4295,178,79,0,245
+203,Choukai,Super Rare,Heavy Cruiser,Sakura Empire,261,4295,178,79,0,221
+204,Kongou,Elite,Battlecruiser,Sakura Empire,367,6604,273,37,0,0
+205,Hiei,Elite,Battlecruiser,Sakura Empire,367,6604,273,37,0,0
+206,Haruna,Elite,Battlecruiser,Sakura Empire,360,6604,273,37,0,0
+207,Kirishima,Elite,Battlecruiser,Sakura Empire,367,6604,273,37,0,0
+208,Fusou,Rare,Battleship,Sakura Empire,390,6916,222,31,0,0
+209,Yamashiro,Rare,Battleship,Sakura Empire,390,7307,222,31,0,0
+210,Ise,Rare,Battleship,Sakura Empire,398,7124,229,31,0,0
+211,Hyuuga,Rare,Battleship,Sakura Empire,398,7124,229,31,0,0
+212,Nagato,Super Rare,Battleship,Sakura Empire,419,8117,182,37,0,0
+213,Mutsu,Elite,Battleship,Sakura Empire,409,7896,185,34,0,0
+214,Kii,Super Rare,Battleship,Sakura Empire,421,7945,367,37,0,283
+215,Tosa,Super Rare,Battleship,Sakura Empire,423,8056,199,36,0,217
+218,Hiyou,Rare,Light Aircraft Carrier,Sakura Empire,0,5204,247,68,279,0
+219,Junyou,Rare,Light Aircraft Carrier,Sakura Empire,0,5204,247,68,279,0
+220,Houshou,Elite,Light Aircraft Carrier,Sakura Empire,0,3621,257,66,286,0
+222,Shouhou,Rare,Light Aircraft Carrier,Sakura Empire,0,4283,248,70,279,0
+223,Ryuujou,Elite,Light Aircraft Carrier,Sakura Empire,0,4278,252,82,347,0
+224,Akagi,Super Rare,Aircraft Carrier,Sakura Empire,0,6588,323,54,409,0
+225,Kaga,Super Rare,Aircraft Carrier,Sakura Empire,0,6771,323,49,408,0
+226,Souryuu,Elite,Aircraft Carrier,Sakura Empire,0,5246,313,56,390,0
+227,Hiryuu,Elite,Aircraft Carrier,Sakura Empire,0,5468,311,56,391,0
+228,Shoukaku,Super Rare,Aircraft Carrier,Sakura Empire,0,6729,349,56,412,0
+229,Zuikaku,Super Rare,Aircraft Carrier,Sakura Empire,0,7193,323,57,414,0
+230,Taihou,Super Rare,Aircraft Carrier,Sakura Empire,0,7310,319,54,399,0
+231,Shinano,Ultra Rare,Aircraft Carrier,Sakura Empire,0,8616,317,49,437,0
+232,Akashi,Super Rare,Repair Ship,Sakura Empire,44,4125,160,45,0,0
+233,Z1,Elite,Destroyer,Iron Blood,65,2053,154,148,0,450
+236,Z23,Elite,Destroyer,Iron Blood,120,2125,150,157,0,327
+237,Z25,Elite,Destroyer,Iron Blood,120,2116,154,156,0,327
+238,Königsberg,Normal,Light Cruiser,Iron Blood,152,3372,333,100,0,273
+239,Karlsruhe,Normal,Light Cruiser,Iron Blood,152,3372,333,100,0,273
+240,Köln,Normal,Light Cruiser,Iron Blood,152,3372,333,100,0,273
+241,Leipzig,Rare,Light Cruiser,Iron Blood,148,3494,347,102,0,270
+242,Admiral Hipper,Elite,Heavy Cruiser,Iron Blood,251,4970,189,61,0,190
+244,Prinz Eugen,Super Rare,Heavy Cruiser,Iron Blood,226,6252,205,62,0,153
+245,Deutschland,Elite,Heavy Cruiser,Iron Blood,301,4018,154,53,0,220
+246,Admiral Graf Spee,Elite,Heavy Cruiser,Iron Blood,298,4361,154,54,0,216
+248,Scharnhorst,Elite,Battlecruiser,Iron Blood,366,7455,248,38,0,154
+249,Gneisenau,Elite,Battlecruiser,Iron Blood,366,7455,248,38,0,154
+250,Bismarck,Super Rare,Battleship,Iron Blood,423,8762,208,33,0,0
+251,Tirpitz,Super Rare,Battleship,Iron Blood,423,8401,208,33,0,217
+252,Graf Zeppelin,Super Rare,Aircraft Carrier,Iron Blood,0,7488,319,50,400,0
+253,An Shan,Elite,Destroyer,Dragon Empery,131,2277,172,165,0,228
+254,Fu Shun,Elite,Destroyer,Dragon Empery,128,2277,174,165,0,231
+255,Chang Chun,Elite,Destroyer,Dragon Empery,131,2277,172,165,0,228
+256,Tai Yuan,Elite,Destroyer,Dragon Empery,128,2277,174,165,0,229
+257,Yat Sen,Elite,Light Cruiser,Dragon Empery,120,1884,347,79,0,0
+258,Ning Hai,Elite,Light Cruiser,Dragon Empery,146,1982,289,75,0,234
+259,Ping Hai,Elite,Light Cruiser,Dragon Empery,146,1950,257,72,0,234
+262,Avrora,Super Rare,Light Cruiser,Northern Parliament,104,3372,160,79,0,223
+263,Bailey,Rare,Destroyer,Eagle Union,87,1826,172,162,0,320
+264,Z19,Rare,Destroyer,Iron Blood,68,2033,149,148,0,440
+265,Z20,Normal,Destroyer,Iron Blood,65,1993,145,148,0,433
+266,Z21,Normal,Destroyer,Iron Blood,65,1993,145,148,0,433
+267,Z46,Super Rare,Destroyer,Iron Blood,90,2595,255,151,0,452
+269,Kamikaze,Rare,Destroyer,Sakura Empire,60,1561,139,193,0,404
+270,Matsukaze,Rare,Destroyer,Sakura Empire,59,1561,130,190,0,404
+271,Mutsuki,Normal,Destroyer,Sakura Empire,59,1487,138,193,0,427
+272,Kisaragi,Normal,Destroyer,Sakura Empire,59,1487,138,193,0,427
+274,Uzuki,Normal,Destroyer,Sakura Empire,59,1487,138,193,0,427
+276,Minazuki,Normal,Destroyer,Sakura Empire,59,1487,138,193,0,427
+277,Fumizuki,Rare,Destroyer,Sakura Empire,60,1516,128,193,0,438
+278,Nagatsuki,Rare,Destroyer,Sakura Empire,60,1516,128,193,0,438
+280,Mikazuki,Normal,Destroyer,Sakura Empire,59,1487,138,193,0,427
+288,Kawakaze,Super Rare,Destroyer,Sakura Empire,69,1830,161,190,0,545
+293,Kiyonami,Rare,Destroyer,Sakura Empire,59,2055,138,191,0,497
+295,Niizuki,Elite,Destroyer,Sakura Empire,76,2445,193,179,0,370
+296,Harutsuki,Elite,Destroyer,Sakura Empire,74,2445,194,179,0,363
+297,Yoizuki,Elite,Destroyer,Sakura Empire,74,2445,199,179,0,363
+299,Radford,Rare,Destroyer,Eagle Union,85,2054,172,163,0,283
+300,Jenkins,Rare,Destroyer,Eagle Union,85,2080,172,161,0,283
+301,Nicholas,Elite,Destroyer,Eagle Union,87,2115,178,160,0,291
+303,Richmond,Normal,Light Cruiser,Eagle Union,142,3237,281,101,0,207
+304,Honolulu,Rare,Light Cruiser,Eagle Union,164,3470,307,90,0,0
+305,St. Louis,Elite,Light Cruiser,Eagle Union,171,3604,316,90,0,0
+306,Jupiter,Rare,Destroyer,Royal Navy,76,1536,156,210,0,364
+307,Jersey,Rare,Destroyer,Royal Navy,76,1536,156,210,0,364
+308,Sendai,Rare,Light Cruiser,Sakura Empire,150,2540,276,108,0,326
+309,Jintsuu,Elite,Light Cruiser,Sakura Empire,156,2615,285,108,0,337
+310,Naka,Rare,Light Cruiser,Sakura Empire,151,2540,286,108,0,337
+316,Urakaze,Rare,Destroyer,Sakura Empire,63,2083,149,191,0,502
+317,Isokaze,Rare,Destroyer,Sakura Empire,65,2083,149,191,0,502
+318,Hamakaze,Rare,Destroyer,Sakura Empire,65,2083,150,191,0,512
+319,Tanikaze,Rare,Destroyer,Sakura Empire,65,2083,154,191,0,512
+320,Mikasa,Super Rare,Battleship,Sakura Empire,334,5372,172,25,0,0
+321,Agano,Elite,Light Cruiser,Sakura Empire,148,3159,323,104,0,353
+322,Noshiro,Super Rare,Light Cruiser,Sakura Empire,175,3278,333,104,0,373
+325,Matchless,Elite,Destroyer,Royal Navy,76,1683,157,210,0,394
+326,Musketeer,Elite,Destroyer,Royal Navy,76,1683,156,210,0,400
+327,Fiji,Rare,Light Cruiser,Royal Navy,159,3586,255,100,0,268
+328,Jamaica,Rare,Light Cruiser,Royal Navy,157,3636,329,100,0,269
+329,Montpelier,Super Rare,Light Cruiser,Eagle Union,170,4361,333,92,0,0
+330,Denver,Elite,Light Cruiser,Eagle Union,157,4307,321,92,0,0
+331,Asashio,Rare,Destroyer,Sakura Empire,62,1937,149,191,0,508
+332,Ooshio,Rare,Destroyer,Sakura Empire,62,1937,150,191,0,509
+333,Michishio,Rare,Destroyer,Sakura Empire,62,1964,150,191,0,509
+334,Arashio,Rare,Destroyer,Sakura Empire,62,1937,149,191,0,509
+335,Little Bel,Elite,Light Cruiser,Royal Navy,159,3231,282,96,0,324
+336,Abercrombie,Elite,Monitor,Royal Navy,286,3777,182,61,0,0
+337,Sussex,Rare,Heavy Cruiser,Royal Navy,203,3461,255,71,0,215
+338,I-19,Super Rare,Submarine,Sakura Empire,59,2165,0,45,0,549
+339,I-26,Elite,Submarine,Sakura Empire,61,2067,0,45,0,520
+340,I-58,Elite,Submarine,Sakura Empire,59,2080,0,37,0,503
+341,U-81,Super Rare,Submarine,Iron Blood,50,1309,0,37,0,555
+342,Dace,Elite,Submarine,Eagle Union,71,1692,0,41,0,503
+343,U-47,Super Rare,Submarine,Iron Blood,48,1297,0,37,0,530
+344,U-557,Elite,Submarine,Iron Blood,44,1261,0,37,0,499
+345,Z35,Elite,Destroyer,Iron Blood,80,2092,182,159,0,440
+346,Z18,Rare,Destroyer,Iron Blood,68,2033,149,148,0,440
+347,Le Triomphant,Super Rare,Destroyer,Iris Libre,131,2021,167,213,0,267
+348,Forbin,Rare,Destroyer,Iris Libre,69,1376,138,200,0,409
+349,Émile Bertin,Elite,Light Cruiser,Iris Libre,161,3185,272,117,0,273
+350,Surcouf,Elite,Submarine,Iris Libre,139,2819,0,22,0,509
+351,Le Mars,Rare,Destroyer,Vichya Dominion,69,1376,138,200,0,409
+352,Dunkerque,Elite,Battlecruiser,Vichya Dominion,357,6788,227,41,0,0
+353,Jean Bart,Super Rare,Battleship,Vichya Dominion,419,8036,241,42,0,0
+354,Massachusetts,Super Rare,Battleship,Eagle Union,414,7783,400,33,0,0
+355,Bush,Rare,Destroyer,Eagle Union,85,2054,189,160,0,282
+356,Centaur,Super Rare,Light Aircraft Carrier,Royal Navy,0,6626,268,70,421,0
+357,Essex,Super Rare,Aircraft Carrier,Eagle Union,0,6647,331,54,433,0
+358,Albacore,Super Rare,Submarine,Eagle Union,61,1924,0,41,0,526
+359,Le Téméraire,Elite,Destroyer,Iris Libre,93,1571,172,189,0,394
+360,Memphis,Rare,Light Cruiser,Eagle Union,146,3301,295,101,0,212
+361,Newcastle,Rare,Light Cruiser,Royal Navy,145,3688,347,100,0,285
+362,Hobby,Rare,Destroyer,Eagle Union,87,1826,172,163,0,320
+363,Kalk,Rare,Destroyer,Eagle Union,87,1826,172,163,0,320
+364,Minneapolis,Super Rare,Heavy Cruiser,Eagle Union,258,4152,248,57,0,0
+365,Hazelwood,Rare,Destroyer,Eagle Union,85,2054,172,160,0,283
+366,Concord,Rare,Light Cruiser,Eagle Union,146,3301,295,101,0,215
+367,Amagi,Super Rare,Battlecruiser,Sakura Empire,421,7654,187,41,0,213
+368,Kaga (Battleship),Super Rare,Battleship,Sakura Empire,423,8303,187,39,0,217
+369,Hatakaze,Rare,Destroyer,Sakura Empire,60,1561,139,193,0,404
+370,Makinami,Elite,Destroyer,Sakura Empire,70,2157,156,191,0,526
+371,Sirius,Super Rare,Light Cruiser,Royal Navy,151,3744,385,97,0,161
+372,Curacoa,Rare,Light Cruiser,Royal Navy,134,2981,154,92,0,0
+373,Curlew,Rare,Light Cruiser,Royal Navy,128,2789,178,92,0,0
+374,Kimberly,Rare,Destroyer,Eagle Union,82,2054,182,160,0,283
+375,Mullany,Elite,Destroyer,Eagle Union,90,2115,172,160,0,291
+376,Chaser,Elite,Light Aircraft Carrier,Royal Navy,0,4707,257,62,299,0
+377,Independence,Elite,Light Aircraft Carrier,Eagle Union,0,4796,268,83,310,0
+378,Shangri-La,Super Rare,Aircraft Carrier,Eagle Union,0,6647,331,54,430,0
+379,Z2,Elite,Destroyer,Iron Blood,84,2053,154,148,0,433
+380,Bunker Hill,Super Rare,Aircraft Carrier,Eagle Union,0,6610,309,54,425,0
+381,I-13,Super Rare,Submarine Carrier,Sakura Empire,50,2657,0,36,252,514
+382,Suzuya,Elite,Heavy Cruiser,Sakura Empire,237,4176,209,80,0,212
+383,Hiei-chan,Elite,Battlecruiser,Sakura Empire,363,6454,247,40,0,168
+384,Akagi-chan,Elite,Aircraft Carrier,Sakura Empire,0,6250,311,54,394,0
+385,Zeppy,Elite,Aircraft Carrier,Iron Blood,174,6983,307,56,376,0
+386,U-556,Elite,Submarine,Iron Blood,39,1261,0,37,0,499
+387,U-73,Elite,Submarine,Iron Blood,45,1250,0,37,0,523
+388,Z36,Elite,Destroyer,Iron Blood,82,2092,178,159,0,437
+389,Echo,Rare,Destroyer,Royal Navy,73,1400,152,209,0,360
+390,Lena,Elite,Light Cruiser,Eagle Union,167,3246,316,91,0,0
+391,Clevelad,Elite,Light Cruiser,Eagle Union,162,3601,323,94,0,0
+392,Li'l Sandy,Elite,Light Cruiser,Eagle Union,131,3226,434,95,0,161
+393,Swiftsure,Super Rare,Light Cruiser,Royal Navy,163,3796,304,96,0,364
+394,Le Malin,Super Rare,Destroyer,Vichya Dominion,137,2021,138,213,0,273
+395,L'Opiniâtre,Elite,Destroyer,Iris Libre,103,1772,204,178,0,370
+396,I-25,Elite,Submarine,Sakura Empire,65,1946,0,45,0,514
+397,I-56,Elite,Submarine,Sakura Empire,59,2080,0,37,0,502
+398,I-168,Super Rare,Submarine,Sakura Empire,65,1993,0,43,0,539
+399,U-101,Super Rare,Submarine,Iron Blood,48,1297,0,37,0,530
+400,U-522,Elite,Submarine,Iron Blood,43,1496,0,37,0,505
+401,Alabama,Super Rare,Battleship,Eagle Union,418,7783,408,33,0,0
+402,Cavalla,Super Rare,Submarine,Eagle Union,65,1899,0,41,0,524
+403,Bataan,Elite,Light Aircraft Carrier,Eagle Union,0,5008,276,83,347,0
+404,San Juan,Rare,Light Cruiser,Eagle Union,129,3517,429,95,0,157
+405,Birmingham,Elite,Light Cruiser,Eagle Union,168,4189,327,94,0,0
+406,Aylwin,Rare,Destroyer,Eagle Union,81,1679,182,162,0,279
+407,Bache,Rare,Destroyer,Eagle Union,76,2095,194,161,0,283
+408,Black Prince,Elite,Light Cruiser,Royal Navy,142,3608,377,98,0,153
+409,Stanly,Rare,Destroyer,Eagle Union,85,2095,172,160,0,283
+410,Littorio,Super Rare,Battleship,Sardegna Empire,421,8367,243,35,0,0
+411,Conte di Cavour,Rare,Battleship,Sardegna Empire,337,6831,175,36,0,146
+412,Giulio Cesare,Elite,Battleship,Sardegna Empire,347,7030,186,36,0,151
+413,Zara,Super Rare,Heavy Cruiser,Sardegna Empire,252,4941,229,57,0,0
+414,Trento,Rare,Heavy Cruiser,Sardegna Empire,232,3544,186,71,0,184
+415,Carabiniere,Elite,Destroyer,Sardegna Empire,126,1788,160,214,0,267
+416,U-110,Elite,Submarine,Iron Blood,48,1463,0,37,0,499
+417,Smalley,Rare,Destroyer,Eagle Union,87,2095,189,160,0,283
+418,Gascogne µ,Super Rare,Battleship,Vichya Dominion,429,7851,237,37,0,0
+419,Akagi µ,Super Rare,Aircraft Carrier,Sakura Empire,0,6541,323,54,408,0
+420,Cleveland µ,Elite,Light Cruiser,Eagle Union,162,3837,323,96,0,0
+421,Sheffield µ,Elite,Light Cruiser,Royal Navy,153,3559,351,100,0,295
+422,Admiral Hipper µ,Elite,Heavy Cruiser,Iron Blood,251,4844,189,61,0,185
+423,Glasgow,Rare,Light Cruiser,Royal Navy,151,3688,344,100,0,273
+424,Kasumi,Elite,Destroyer,Sakura Empire,65,1999,156,191,0,526
+425,Suruga,Super Rare,Battleship,Sakura Empire,421,8229,215,37,0,213
+426,Ryuuhou,Super Rare,Light Aircraft Carrier,Sakura Empire,0,4986,276,69,317,0
+427,Halsey Powell,Rare,Destroyer,Eagle Union,81,2095,220,160,0,281
+428,Biloxi,Elite,Light Cruiser,Eagle Union,151,4308,323,96,0,0
+429,Uranami,Elite,Destroyer,Sakura Empire,65,1798,146,195,0,504
+431,Grozny,Elite,Destroyer,Northern Parliament,125,2496,204,166,0,179
+432,Minsk,Elite,Destroyer,Northern Parliament,145,2612,172,177,0,228
+433,Tashkent,Super Rare,Destroyer,Northern Parliament,179,2648,176,179,0,279
+434,Pamiat Merkuria,Elite,Light Cruiser,Northern Parliament,83,3061,146,88,0,142
+436,Chapayev,Super Rare,Light Cruiser,Northern Parliament,172,4352,334,94,0,0
+437,Gangut,Elite,Battleship,Northern Parliament,324,6491,174,34,0,0
+441,Sovetskaya Rossiya,Super Rare,Battleship,Northern Parliament,428,8324,248,35,0,0
+442,Intrepid,Super Rare,Aircraft Carrier,Eagle Union,0,6634,331,54,430,0
+443,Bremerton,Super Rare,Heavy Cruiser,Eagle Union,267,4828,266,57,0,0
+444,Cooper,Elite,Destroyer,Eagle Union,126,2190,200,179,0,360
+445,Reno,Super Rare,Light Cruiser,Eagle Union,148,3755,479,95,0,196
+446,Bluegill,Elite,Submarine,Eagle Union,71,1692,0,41,0,499
+447,Casablanca,Rare,Light Aircraft Carrier,Eagle Union,0,4707,258,62,286,0
+448,Marblehead,Rare,Light Cruiser,Eagle Union,135,3301,286,101,0,245
+449,Hanazuki,Elite,Destroyer,Sakura Empire,76,2445,199,179,0,370
+450,Naganami,Elite,Destroyer,Sakura Empire,65,2157,156,191,0,530
+451,Little Renown,Elite,Battlecruiser,Royal Navy,344,6318,303,41,0,0
+452,Tartu,Elite,Destroyer,Vichya Dominion,120,1868,141,212,0,273
+453,Richelieu,Super Rare,Battleship,Iris Libre,447,8428,293,42,0,0
+454,Jeanne d'Arc,Super Rare,Light Cruiser,Iris Libre,152,3223,276,79,0,264
+455,Algérie,Super Rare,Heavy Cruiser,Vichya Dominion,279,5021,244,66,0,223
+456,La Galissonnière,Elite,Light Cruiser,Vichya Dominion,171,3484,309,114,0,279
+457,Vauquelin,Elite,Destroyer,Vichya Dominion,113,1868,143,212,0,279
+458,Béarn,Elite,Aircraft Carrier,Iris Libre,174,6261,307,36,376,255
+459,Little Illustrious,Elite,Aircraft Carrier,Royal Navy,0,5946,266,53,380,0
+460,Eskimo,Elite,Destroyer,Royal Navy,87,1657,156,211,0,350
+461,Howe,Super Rare,Battleship,Royal Navy,418,7967,258,35,0,0
+462,Perseus,Super Rare,Light Aircraft Carrier,Royal Navy,0,5540,264,71,327,0
+463,Hermione,Super Rare,Light Cruiser,Royal Navy,159,3744,381,96,0,173
+464,Valiant,Elite,Battleship,Royal Navy,407,7467,212,31,0,0
+465,Icarus,Elite,Destroyer,Royal Navy,79,1669,157,210,0,376
+466,Z26,Elite,Destroyer,Iron Blood,120,2116,154,156,0,327
+467,U-96,Super Rare,Submarine,Iron Blood,52,1306,0,37,0,536
+468,Suzutsuki,Super Rare,Destroyer,Sakura Empire,81,2538,205,179,0,384
+469,Kumano,Elite,Heavy Cruiser,Sakura Empire,237,4141,215,82,0,212
+470,Chitose,Elite,Light Aircraft Carrier,Sakura Empire,0,4398,261,72,347,0
+471,Chiyoda,Elite,Light Aircraft Carrier,Sakura Empire,0,4847,261,72,347,0
+472,Kashino,Elite,Munition Ship,Sakura Empire,73,4980,134,51,0,0
+9001,Tone,Unreleased,Heavy Cruiser,Sakura Empire,0,0,0,0,0,0
+9002,Chikuma,Unreleased,Heavy Cruiser,Sakura Empire,0,0,0,0,0,0
+9006,Pola,Unreleased,Heavy Cruiser,Sardegna Empire,0,0,0,0,0,0
+9007,Vittorio Veneto,Unreleased,Battleship,Sardegna Empire,0,0,0,0,0,0
+9008,Kirov,Unreleased,Light Cruiser,Northern Parliament,0,0,0,0,0,0
+9009,Sovetsky Soyuz,Unreleased,Battleship,Northern Parliament,0,0,0,0,0,0
