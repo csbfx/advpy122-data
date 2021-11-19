@@ -1,0 +1,151 @@
+Geographic area,Sex,TIME_PERIOD,OBS_VALUE,Unit of measure
+Afghanistan,Female,2014,22.2,%
+Afghanistan,Male,2014,9.3,%
+Albania,Female,2010,2.5,%
+Albania,Male,2010,0.7,%
+Algeria,Female,2013,1.1,%
+Algeria,Male,2013,0.7,%
+Angola,Female,2016,19.3,%
+Angola,Male,2016,15.4,%
+Armenia,Female,2015,0.7,%
+Armenia,Male,2015,0.3,%
+Barbados,Female,2012,0.0,%
+Barbados,Male,2012,0.2,%
+Belarus,Female,2012,0.0,%
+Belarus,Male,2012,0.0,%
+Belize,Female,2013,3.0,%
+Belize,Male,2013,1.3,%
+Benin,Female,2014,33.0,%
+Benin,Male,2014,18.2,%
+Bhutan,Female,2010,4.5,%
+Bhutan,Male,2010,2.2,%
+Burkina Faso,Female,2010,28.6,%
+Burkina Faso,Male,2010,9.0,%
+Burundi,Female,2017,30.0,%
+Burundi,Male,2017,20.5,%
+Cambodia,Female,2012,5.5,%
+Cambodia,Male,2012,1.5,%
+Cameroon,Female,2014,21.7,%
+Cameroon,Male,2014,8.3,%
+Central African Republic,Female,2010,23.1,%
+Central African Republic,Male,2010,13.9,%
+Chad,Female,2015,30.0,%
+Chad,Male,2015,14.8,%
+Chile,Female,2012,10.1,%
+Chile,Male,2012,8.3,%
+Colombia,Female,2017,2.7,%
+Colombia,Male,2017,0.7,%
+Comoros,Female,2012,28.3,%
+Comoros,Male,2012,15.1,%
+Congo,Female,2015,8.5,%
+Congo,Male,2015,8.1,%
+Costa Rica,Female,2016,2.7,%
+Costa Rica,Male,2016,0.5,%
+Côte d'Ivoire,Female,2012,17.7,%
+Côte d'Ivoire,Male,2012,6.8,%
+Democratic Republic of the Congo,Female,2014,19.6,%
+Democratic Republic of the Congo,Male,2014,7.5,%
+Dominican Republic,Female,2014,3.6,%
+Dominican Republic,Male,2014,1.7,%
+Egypt,Female,2014,5.4,%
+Egypt,Male,2014,1.0,%
+El Salvador,Female,2015,19.5,%
+El Salvador,Male,2015,6.8,%
+Eswatini,Female,2010,2.6,%
+Eswatini,Male,2010,2.2,%
+Ethiopia,Female,2011,58.2,%
+Ethiopia,Male,2011,48.8,%
+Gabon,Female,2012,7.0,%
+Gabon,Male,2012,6.1,%
+Georgia,Female,2015,0.4,%
+Georgia,Male,2015,0.2,%
+Ghana,Female,2013,10.7,%
+Ghana,Male,2013,2.8,%
+Guinea,Female,2016,17.6,%
+Guinea,Male,2016,11.1,%
+Guinea-Bissau,Female,2014,13.2,%
+Guinea-Bissau,Male,2014,5.0,%
+Guyana,Female,2014,2.6,%
+Guyana,Male,2014,1.9,%
+Haiti,Female,2012,12.7,%
+Haiti,Male,2012,19.0,%
+Iraq,Female,2011,6.0,%
+Iraq,Male,2011,1.0,%
+Jamaica,Female,2016,0.3,%
+Jamaica,Male,2016,0.5,%
+Jordan,Female,2016,2.1,%
+Jordan,Male,2016,0.4,%
+Kyrgyzstan,Female,2014,2.7,%
+Kyrgyzstan,Male,2014,2.4,%
+Lao People's Democratic Republic,Female,2010,2.1,%
+Lao People's Democratic Republic,Male,2010,2.0,%
+Liberia,Female,2010,5.0,%
+Liberia,Male,2010,1.0,%
+Malawi,Female,2014,11.3,%
+Malawi,Male,2014,5.3,%
+Mali,Female,2015,24.1,%
+Mali,Male,2015,13.4,%
+Mauritania,Female,2011,20.1,%
+Mauritania,Male,2011,10.2,%
+Mexico,Female,2015,1.5,%
+Mexico,Male,2015,1.6,%
+Mongolia,Female,2013,19.1,%
+Mongolia,Male,2013,15.2,%
+Montenegro,Female,2013,1.0,%
+Montenegro,Male,2013,0.0,%
+Nepal,Female,2014,17.4,%
+Nepal,Male,2014,7.4,%
+Niger,Female,2012,25.3,%
+Niger,Male,2012,17.5,%
+Nigeria,Female,2017,9.3,%
+Nigeria,Male,2017,7.4,%
+North Macedonia,Female,2011,1.2,%
+North Macedonia,Male,2011,0.6,%
+Paraguay,Female,2016,8.5,%
+Paraguay,Male,2016,3.7,%
+Peru,Female,2015,4.7,%
+Peru,Male,2015,3.3,%
+Rwanda,Female,2014,30.9,%
+Rwanda,Male,2014,21.8,%
+Saint Lucia,Female,2012,1.0,%
+Saint Lucia,Male,2012,2.6,%
+Sao Tome and Principe,Female,2014,15.4,%
+Sao Tome and Principe,Male,2014,12.3,%
+Senegal,Female,2016,22.9,%
+Senegal,Male,2016,6.2,%
+Serbia,Female,2014,0.3,%
+Serbia,Male,2014,0.1,%
+Sierra Leone,Female,2013,4.7,%
+Sierra Leone,Male,2013,3.8,%
+Solomon Islands,Female,2015,8.6,%
+Solomon Islands,Male,2015,5.9,%
+South Africa,Female,2015,1.8,%
+South Africa,Male,2015,1.4,%
+State of Palestine,Female,2010,5.5,%
+State of Palestine,Male,2010,1.2,%
+Sudan,Female,2014,7.5,%
+Sudan,Male,2014,4.4,%
+Suriname,Female,2010,1.9,%
+Suriname,Male,2010,2.4,%
+Togo,Female,2014,15.7,%
+Togo,Male,2014,9.2,%
+Trinidad and Tobago,Female,2011,0.0,%
+Trinidad and Tobago,Male,2011,0.0,%
+Tunisia,Female,2012,0.9,%
+Tunisia,Male,2012,1.1,%
+Turkmenistan,Female,2016,0.0,%
+Turkmenistan,Male,2016,0.0,%
+Uganda,Female,2017,18.2,%
+Uganda,Male,2017,7.2,%
+Ukraine,Female,2012,1.6,%
+Ukraine,Male,2012,1.6,%
+United Republic of Tanzania,Female,2014,7.3,%
+United Republic of Tanzania,Male,2014,4.0,%
+Uruguay,Female,2010,1.8,%
+Uruguay,Male,2010,0.7,%
+Vanuatu,Female,2013,0.4,%
+Vanuatu,Male,2013,0.8,%
+Viet Nam,Female,2014,4.3,%
+Viet Nam,Male,2014,2.4,%
+Zambia,Female,2012,9.0,%
+Zambia,Male,2012,8.2,%
