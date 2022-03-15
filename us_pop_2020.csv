@@ -1,53 +1,53 @@
-Geographic Area Name (NAME),"Estimates Base Population, April 1, 2020 (POP_BASE2020)"
-Oklahoma,"3,959,353"
-Nebraska,"1,961,504"
-Hawaii,"1,455,271"
-South Dakota,"886,667"
-Tennessee,"6,910,840"
-Nevada,"3,104,614"
-New Mexico,"2,117,522"
-Iowa,"3,190,369"
-Kansas,"2,937,880"
-District of Columbia,"689,545"
-Texas,"29,145,505"
-Missouri,"6,154,913"
-Arkansas,"3,011,524"
-Michigan,"10,077,331"
-New Hampshire,"1,377,529"
-North Carolina,"10,439,388"
-Ohio,"11,799,448"
-South Carolina,"5,118,425"
-Wyoming,"576,851"
-California,"39,538,223"
-North Dakota,"779,094"
-Louisiana,"4,657,757"
-Maryland,"6,177,224"
-Delaware,"989,948"
-Pennsylvania,"13,002,700"
-Georgia,"10,711,908"
-Oregon,"4,237,256"
-Minnesota,"5,706,494"
-Colorado,"5,773,714"
-New Jersey,"9,288,994"
-Kentucky,"4,505,836"
-Washington,"7,705,281"
-Maine,"1,362,359"
-Vermont,"643,077"
-Idaho,"1,839,106"
-Indiana,"6,785,528"
-Montana,"1,084,225"
-New York,"20,201,249"
-Puerto Rico,"3,285,874"
-Connecticut,"3,605,944"
-Florida,"21,538,187"
-Virginia,"8,631,393"
-Massachusetts,"7,029,917"
-Illinois,"12,812,508"
-Mississippi,"2,961,279"
-Arizona,"7,151,502"
-Utah,"3,271,616"
-Wisconsin,"5,893,718"
-Alabama,"5,024,279"
-West Virginia,"1,793,716"
-Rhode Island,"1,097,379"
-Alaska,"733,391"
+State,Population
+Oklahoma,3959353
+Nebraska,1961504
+Hawaii,1455271
+South Dakota,886667
+Tennessee,6910840
+Nevada,3104614
+New Mexico,2117522
+Iowa,3190369
+Kansas,2937880
+District of Columbia,689545
+Texas,29145505
+Missouri,6154913
+Arkansas,3011524
+Michigan,10077331
+New Hampshire,1377529
+North Carolina,10439388
+Ohio,11799448
+South Carolina,5118425
+Wyoming,576851
+California,39538223
+North Dakota,779094
+Louisiana,4657757
+Maryland,6177224
+Delaware,989948
+Pennsylvania,13002700
+Georgia,10711908
+Oregon,4237256
+Minnesota,5706494
+Colorado,5773714
+New Jersey,9288994
+Kentucky,4505836
+Washington,7705281
+Maine,1362359
+Vermont,643077
+Idaho,1839106
+Indiana,6785528
+Montana,1084225
+New York,20201249
+Puerto Rico,3285874
+Connecticut,3605944
+Florida,21538187
+Virginia,8631393
+Massachusetts,7029917
+Illinois,12812508
+Mississippi,2961279
+Arizona,7151502
+Utah,3271616
+Wisconsin,5893718
+Alabama,5024279
+West Virginia,1793716
+Rhode Island,1097379
+Alaska,733391
