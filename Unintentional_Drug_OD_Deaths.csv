@@ -1,0 +1,100 @@
+State,Gender,Deaths
+Alabama,Female,282
+Alabama,Male,623
+Alaska,Female,22
+Alaska,Male,82
+Arizona,Female,604
+Arizona,Male,1719
+Arkansas,Female,161
+Arkansas,Male,245
+California,Female,2073
+California,Male,6457
+Colorado,Female,373
+Colorado,Male,933
+Connecticut,Female,327
+Connecticut,Male,978
+Delaware,Female,134
+Delaware,Male,290
+District of Columbia,Female,122
+District of Columbia,Male,339
+Florida,Female,1958
+Florida,Male,5023
+Georgia,Female,589
+Georgia,Male,1142
+Hawaii,Female,50
+Hawaii,Male,174
+Idaho,Female,96
+Idaho,Male,121
+Illinois,Female,841
+Illinois,Male,2457
+Indiana,Female,609
+Indiana,Male,1411
+Iowa,Female,97
+Iowa,Male,224
+Kansas,Female,133
+Kansas,Male,260
+Kentucky,Female,610
+Kentucky,Male,1394
+Louisiana,Female,548
+Louisiana,Male,1230
+Maine,Female,113
+Maine,Male,313
+Maryland,Female,246
+Maryland,Male,622
+Massachusetts,Female,570
+Massachusetts,Male,1577
+Michigan,Female,699
+Michigan,Male,1579
+Minnesota,Female,297
+Minnesota,Male,647
+Mississippi,Female,166
+Mississippi,Male,319
+Missouri,Female,546
+Missouri,Male,1218
+Montana,Female,13
+Montana,Male,81
+Nebraska,Female,41
+Nebraska,Male,109
+Nevada,Female,240
+Nevada,Male,549
+New Hampshire,Female,87
+New Hampshire,Male,248
+New Jersey,Female,673
+New Jersey,Male,2013
+New Mexico,Female,213
+New Mexico,Male,511
+New York,Female,1142
+New York,Male,3335
+North Carolina,Female,893
+North Carolina,Male,2026
+North Dakota,Female,11
+North Dakota,Male,65
+Ohio,Female,1594
+Ohio,Male,3420
+Oklahoma,Female,231
+Oklahoma,Male,432
+Oregon,Female,207
+Oregon,Male,470
+Pennsylvania,Female,1447
+Pennsylvania,Male,3399
+Rhode Island,Female,83
+Rhode Island,Male,282
+South Carolina,Female,527
+South Carolina,Male,1105
+Tennessee,Female,964
+Tennessee,Male,1936
+Texas,Female,1075
+Texas,Male,2646
+Utah,Female,178
+Utah,Male,310
+Vermont,Female,35
+Vermont,Male,110
+Virginia,Female,625
+Virginia,Male,1424
+Washington,Female,457
+Washington,Male,1078
+West Virginia,Female,381
+West Virginia,Male,906
+Wisconsin,Female,428
+Wisconsin,Male,972
+Wyoming,Male,44
